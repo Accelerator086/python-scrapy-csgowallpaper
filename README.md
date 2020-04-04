@@ -1,6 +1,6 @@
 # csgowallpaper-python-scrapy
 
-'''python
+~~~python
 # -*- coding: utf-8 -*-
 
 import os
@@ -32,4 +32,4 @@ for n in range(1,2746):
         time.sleep(0.5)
 print('Finish!')
 
-'''
+~~~
