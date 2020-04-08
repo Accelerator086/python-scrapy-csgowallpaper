@@ -1,5 +1,7 @@
 # csgowallpaper-python-scrapy
 
+Python 爬取 http://csgowallpapers.com 全站图片
+
 ~~~python
 # -*- coding: utf-8 -*-
 
