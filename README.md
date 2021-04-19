@@ -1,4 +1,4 @@
-# csgowallpaper-python-scrapy
+# python-scrapy-csgowallpaper
 
 Python 爬取 http://csgowallpapers.com 全站图片
 
